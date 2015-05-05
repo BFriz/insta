@@ -1,0 +1,46 @@
+/*
+Colors to use:
+dark blue: #06365f
+light blue: #1c5380
+*/
+header {
+  background-image: url(../images/bgtile.png);
+  background-position: bottom;
+  width: 100%;
+  height: 280px;
+  position: absolute;
+}
+.top {
+  position: absolute;
+  left: 590px;
+  top: 120px;
+}
+.box1-right {
+  position: absolute;
+  width: 430px;
+  padding: 20px;
+  background-image: url(../images/frame.png);
+  background-repeat: no-repeat; 
+  left: 590px;
+  top: 230px;
+}
+.content {
+  text-align: left;
+}
+.box2-left {
+  position: absolute;
+  top: 120px;
+  left: 130px;
+}
+.content {
+  font-family: 'proxima-nova', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+.butt {
+
+}
+
+footer {
+  text-align: center;
+  position: relative;
+  top: 700px;
+}
